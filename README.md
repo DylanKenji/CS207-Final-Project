@@ -26,6 +26,8 @@ How users can get started with the project:
  Who maintains and contributes to the project:  
 &nbsp;&nbsp;    At the moment, no plans to maintain the project  
 &nbsp;&nbsp;    Dylan.Y and Jahkwon.H contributed to creating this project  
+
+ Link for those who want a visual presentation: https://www.youtube.com/watch?v=O7sx4c2UZBA
  
     
     
