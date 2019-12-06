@@ -25,11 +25,11 @@ How users can get started with the project:
 &nbsp;&nbsp;&nbsp;&nbsp; FastLED, RTClib, Wire, LCD, LiquidCrystal_I2C, LiquidCrystal, SPI, nRF24L01, RF24
 
 Usage:  
-&nbsp;&nbsp; Upload transmitter code to arduino with the button
-&nbsp;&nbsp; Upload receiver code to the other arduino
-&nbsp;&nbsp; Wait for the nRF24L01 modules to connect (takes a few seconds)
-&nbsp;&nbsp; Now you can turn the device on/off using the transmitter arduino with the button
-&nbsp;&nbsp; enjoy
+&nbsp;&nbsp; Upload transmitter code to arduino with the button  
+&nbsp;&nbsp; Upload receiver code to the other arduino  
+&nbsp;&nbsp; Wait for the nRF24L01 modules to connect (takes a few seconds)  
+&nbsp;&nbsp; Now you can turn the device on/off using the transmitter arduino with the button  
+&nbsp;&nbsp; enjoy  
     
  Where users can get help with your project:  
 &nbsp;&nbsp;   dylanyamaguchikuan@gmail.com & Kwonjah@gmail.com
